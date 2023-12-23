@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_uri": "https://facebook.com/codingthunder",
+    "tw_uri": "https://twitter.com/codingthunder",
+    "gh_uri": "https://github.com/codingthunder",
+    "block": "DS  FIRE",
+    "about_text": "Hi my name is Satish A i love coding and I am good Boy",
+    "no_of_posts": 5,
+    "login_image":"login.svg",
+    "admin_user":"satish",
+    "admin_password": "sath1234",
+     "upload_location":"C:\\Users\\hp\\Desktop\\python full stack development❤❤❤\\10.Backend in web development\\flask\\static"
+
+  }
+}
